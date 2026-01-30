@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sakjanon;Frontend+Developer+%F0%9F%92%BB;Computer+Engineering+%E2%9A%99%EF%B8%8F;From+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=&fontSize=0" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakjanonkk&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
 
 - 🎓 **Final-year Computer Engineering Student** at Khon Kaen University
 - 💼 Currently working part-time as a **Frontend Developer**
@@ -83,10 +83,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a8a&height=100&section=footer&text=Keep%20Coding%20%26%20Keep%20Growing&fontSize=20&fontColor=fff" width="100%" />
 </p>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=sakjanonkk&icon=6&color=6" alt="Visit Count" />
-</div>
+</div> -->
