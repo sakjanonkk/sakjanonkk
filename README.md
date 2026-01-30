@@ -55,14 +55,14 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakjanonkk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakjanonkk&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" />
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=sakjanonkk&show_icons=true&theme=tokyonight&hide_border=true" alt="sakjanonkk's GitHub stats" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakjanonkk&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="sakjanonkk's Top Langs" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakjanonkk&theme=tokyonight&hide_border=true" />
+  <img width="854" src="https://github-readme-streak-stats.herokuapp.com/?user=sakjanonkk&theme=tokyonight&hide_border=true" alt="sakjanonkk's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakjanonkk&theme=tokyonight" width="100%"/>
+  <img width="854" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakjanonkk&theme=tokyonight" alt="sakjanonkk's profile summary" />
 </p>
