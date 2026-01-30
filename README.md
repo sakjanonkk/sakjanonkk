@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1e3a8a&height=120&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=&fontSize=0" width="100%" />
 </p>
 
 <p align="center">
@@ -23,8 +23,8 @@
 - 🚀 Building **KKU Hubor** (Course Review Platform)
 - 🌍 Based in **Khon Kaen, Thailand**
 - 📫 Reach me at: **sakjanon.k@kkumail.com**
-- 🎮 Fun Fact: High-level **Valorant** player & AI Music enthusiast
-- ⚡ I love crafting clean code and modern **UI/UX experiences**
+- 🎮 Fun Fact: High-level **Valorant** player (Immortal Rank!)
+- ⚡ I love crafting clean code with **Next.js, React, and Angular**
 
 <br clear="right"/>
 
@@ -68,10 +68,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakjanonkk&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakjanonkk&theme=tokyonight" width="100%"/>
-</p>
-
 ---
 
 ## 🔗 Connect with Me
@@ -88,7 +84,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1e3a8a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a8a&height=100&section=footer&text=Keep%20Coding%20%26%20Keep%20Growing&fontSize=20&fontColor=fff" width="100%" />
 </p>
 
 <div align="center">
