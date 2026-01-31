@@ -20,11 +20,11 @@
 
 - 🎓 **Final-year Computer Engineering Student** at Khon Kaen University
 - 💼 Currently working part-time as a **Frontend Developer**
-- 🚀 Building **KKU Hubor** (Course Review Platform)
+- 🚀 And learning **Backend Developer** using Go+Gorm
 - 🌍 Based in **Khon Kaen, Thailand**
 - 📫 Reach me at: **sakjanon.k@kkumail.com**
 - 🎮 Fun Fact: High-level **Valorant** player (Immortal Rank!)
-- ⚡ I love crafting clean code with **Next.js, React, and Angular**
+- ⚡ I love Angular as a Frontend Framwork!
 
 <br clear="right"/>
 
